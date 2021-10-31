@@ -2,7 +2,7 @@
 
 Super simple proxy app for [Proclaim](https://faithlife.com/products/proclaim) remote control API as most functionality is only available from localhost.
 
-Intended for use with Companion and the Proclaim module when Companion is running on a different machine to Proclaim.
+Intended for use with [Companion](https://github.com/bitfocus/companion) and the Proclaim module when Companion is running on a different device to Proclaim.
 
 ## Usage
 
